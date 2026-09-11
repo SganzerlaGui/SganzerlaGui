@@ -1,7 +1,6 @@
-<!-- HEADER (NOME ESTILO VITRINE) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Guilherme%20Sganzerla%20Correia&fontSize=38&animation=twinkling&fontAlignY=38" alt="Guilherme Sganzerla Correia" />
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0077B5&width=500&height=50&lines=Guilherme+Sganzerla+Correia" alt="Guilherme Sganzerla Correia" />
+</a>
 
 <br>
 
