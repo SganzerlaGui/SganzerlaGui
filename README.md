@@ -10,7 +10,7 @@ Estudante de Engenharia da Computação focado no desenvolvimento de sistemas ba
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Principais Linguagens e Tecnologias:**
 
@@ -28,15 +28,15 @@ Estudante de Engenharia da Computação focado no desenvolvimento de sistemas ba
 
 ---
 
-### 📌 Em Destaque
+### Destaque
 
-- 🚀 Atualmente desenvolvendo projetos práticos com foco em **Python** e **SQL**.
-- 🎓 Cursando **Engenharia da Computação na FIAP** (Previsão de conclusão: 2029).
-- 🎯 Buscando oportunidades de estágio na área de Tecnologia da Informação.
+- Atualmente desenvolvendo projetos práticos com foco em **Python** e **SQL**.
+- Cursando **Engenharia da Computação na FIAP** (Previsão de conclusão: 2029).
+- Buscando oportunidades de estágio na área de Tecnologia da Informação.
 
 ---
 
-### 📫 Vamos nos conectar?
+### Vamos nos conectar?
 
 <!-- IMPORTANTE: Substitua os links abaixo pelos seus URLs reais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sganzerla-correia-a9802021a/)
