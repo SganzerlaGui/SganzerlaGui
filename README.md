@@ -49,4 +49,3 @@ Estudante de Engenharia da Computação focado no desenvolvimento de sistemas ba
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
   <img alt="Github snake game" src="https://githubusercontent.com">
 </picture>
-
