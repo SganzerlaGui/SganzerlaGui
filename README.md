@@ -43,6 +43,7 @@ Estudante de Engenharia da Computação focado no desenvolvimento de sistemas ba
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gui.sganzerla2007@gmail.com)
 
 
+![Minhoca do GitHub](https://githubusercontent.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
