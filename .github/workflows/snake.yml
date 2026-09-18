@@ -8,10 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Esta linha força o GitHub a aceitar a gravação dos arquivos na branch
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
 
-      # Gera a animação da cobrinha usando a versão oficial atualizada
+      # Gera a animação da cobrinha
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -20,7 +25,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Salva os arquivos gerados direto na branch 'output'
+      # Publica os arquivos na branch 'output'
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
