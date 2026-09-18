@@ -41,3 +41,12 @@ Estudante de Engenharia da Computação focado no desenvolvimento de sistemas ba
 <!-- IMPORTANTE: Substitua os links abaixo pelos seus URLs reais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sganzerla-correia-a9802021a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gui.sganzerla2007@gmail.com)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="Github snake game" src="https://githubusercontent.com">
+</picture>
+
