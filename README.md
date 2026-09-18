@@ -44,9 +44,3 @@ Estudante de Engenharia da Computação focado no desenvolvimento de sistemas ba
 
 
 ![Minhoca do GitHub](https://githubusercontent.com)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="Github snake game" src="https://githubusercontent.com">
-</picture>
